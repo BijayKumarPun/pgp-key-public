@@ -1,5 +1,7 @@
 # pgp-public-key
 
+PGP key for encrypting files - public
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v1.0.0
